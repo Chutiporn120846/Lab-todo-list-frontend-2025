@@ -1058,9 +1058,8 @@ npm run dev
 - ✅ UI สวยงาม มี animations
 
 ## บันทึกรูปผลการทดลอง
-```bash
-# บันทึกรูปผลการทดลองที่นี่
-``` 
+
+![alt text](image.png)
 
 ### ขั้นตอนที่ 8.4: Test Build
 
@@ -1172,9 +1171,7 @@ git push origin main
 
 
 ## บันทึกรูปผลการ Deploy
-```bash
-# บันทึกรูปผลการ Deploy ที่นี่
-```
+![alt text](image-2.png)
 
 ### ขั้นตอนที่ 10.3: หา URL ของ Website
 
@@ -1203,9 +1200,7 @@ https://your-username.github.io/todo-frontend/
 
 ---
 ## บันทึกรูปผลการรันหน้า Front-end
-```bash
-# บันทึกรูปผลการรันหน้า Front-end ที่นี่
-```
+![alt text](image-1.png)
 
 ## ส่วนที่ 11: Troubleshooting
 
